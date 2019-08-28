@@ -1,0 +1,15 @@
+{
+  "name": "testallthethings",
+  "version": "1.0.0",
+  "description": "tape test analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/tape ./test/*.test.js"
+  },
+  "author": "Ernest",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.11.0"
+  }
+}

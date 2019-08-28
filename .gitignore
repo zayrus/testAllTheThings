@@ -1,0 +1,20 @@
+
+gs
+*.log
+
+# Dependency directory
+node_modules
+
+# Trash
+.DS_Store
+*.iml
+.idea
+.vscode
+all.zip
+temp/
+mocks/development
+
+# Test Files that should be ignored
+coverage
+
+
