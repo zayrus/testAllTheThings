@@ -1,4 +1,4 @@
-# testAllTheThings
+# tape
 
 ## What?
 Tape is a JavaScript testing framework that works in both Node.js and Browsers. 
